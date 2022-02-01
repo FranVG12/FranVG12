@@ -1,0 +1,11 @@
+- 👋 Hola, Soy @FranVG12
+- 👀 Estoy interesado en la Electronica (automatización,redes y el diseño de sistemas embebidos) ,el desarrollo de aplicaciones.
+- 🌱 Actualmente estoy cursando una carrera de Ingeniería Electrónica. Domino varios lenguajes de programación como C++ , java, phython.
+     A su vez cuendo con buen dominio en Matlab/Octave/Scilab
+- 💞️ Estoy buscando unirme a algun proyecto redes o el desarrollo de alguna app
+- 📫 Puedes escribirme a franvg12@gmail.com
+
+<!---
+FranVG12/FranVG12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
